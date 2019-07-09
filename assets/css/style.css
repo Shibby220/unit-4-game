@@ -1,0 +1,10 @@
+.crystalCollector {
+    border: 2px solid purple;
+    height: 250px;
+    width: 250px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-around;
+}
